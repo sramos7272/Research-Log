@@ -1,7 +1,9 @@
 
 STEPHANIE RAMOS
 ENG 235- TECHNICAL WRITING
-•	
+
+# Week 1
+
 •	Describe your own initial understandings and assumptions about "technical writing" as you start the course. How do your initial understandings/assumptions align (or not) with the work we have done so far?
 My initial understanding of “technical writing” was writing used in real life situations such as resumes or memos. It has aligned in the aspect that we are using it to teach in real life situations such as instruction sets. 
 •	Reflect on your experience in composing these instruction sets -- attempt to describe all of the choices you made in the process of realizing your composition. In light of our usability testing -- what, if anything, would you revise or change about your instruction set in order to improve it?
@@ -14,4 +16,8 @@ I chose the platform I was most familiar with. I knew if I used PowerPoint it wo
 Setting up Github was a bit difficult starting out. I will have to work on it more to get a better grasp at it. I noticed it does assist you in recommending things such as merging or deleting duplicates. One thing I could take away is that it allows you to seeing edits done to the file, this will help when working on projects with others.
 •	Finally, what do you think you learned this week? Keep in mind that your learning might resonate with particular course outcomes or personal outcomes or even something unexpected or not entirely anticipated by either articualted course or personal outcomes.
 I learned that technical writing is translating material to everyday language and that designs do not need to be text, it can be any material available that helps the user understand the product or program, learned about the different resources available when working on projects, I also learned that technical writing is wide variety of things such as instructional sets or even zines. 
+
+# Week 2
+
+
 
