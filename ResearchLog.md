@@ -4,8 +4,10 @@ ENG 235- TECHNICAL WRITING
 
 # Week 1
 
-•	Describe your own initial understandings and assumptions about "technical writing" as you start the course. How do your initial understandings/assumptions align (or not) with the work we have done so far?
+Describe your own initial understandings and assumptions about "technical writing" as you start the course. How do your initial understandings/assumptions align (or not) with the work we have done so far?
+
 My initial understanding of “technical writing” was writing used in real life situations such as resumes or memos. It has aligned in the aspect that we are using it to teach in real life situations such as instruction sets. 
+
 •	Reflect on your experience in composing these instruction sets -- attempt to describe all of the choices you made in the process of realizing your composition. In light of our usability testing -- what, if anything, would you revise or change about your instruction set in order to improve it?
 When given the task I first had to decide what I was going to make, ensure I had the required amount of pieces, looked on the Lego website to find the proper name for the pieces, took pictures of each step, typed up step-by-step and added the steps to the pictures, ensured it was in the right order, worked on setting to make into a booklet, numbered the pages in the booklet in case pages were mixed up. If I were to revise anything it would be to change the settings back on the word document so it would be easier to look at online as well. 
 •	Technical Writing -- like any field or category of writing -- is rhetorically situated. That means that questions of audience are essential considerations to what's produced. Even though this is a classroom exercise -- what sense of audience for these instructions do you have? How, if at all, has this sense of audience -- that you are designing this text for a reader -- informed the choices you made in producing the composition? 
