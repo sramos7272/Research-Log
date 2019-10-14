@@ -2,7 +2,7 @@
 STEPHANIE RAMOS
 ENG 235- TECHNICAL WRITING
 
-# Week 1
+# Week 2
 
 Describe your own initial understandings and assumptions about "technical writing" as you start the course. How do your initial understandings/assumptions align (or not) with the work we have done so far?
 
@@ -19,7 +19,27 @@ Setting up Github was a bit difficult starting out. I will have to work on it mo
 •	Finally, what do you think you learned this week? Keep in mind that your learning might resonate with particular course outcomes or personal outcomes or even something unexpected or not entirely anticipated by either articualted course or personal outcomes.
 I learned that technical writing is translating material to everyday language and that designs do not need to be text, it can be any material available that helps the user understand the product or program, learned about the different resources available when working on projects, I also learned that technical writing is wide variety of things such as instructional sets or even zines. 
 
-# Week 2
+# Week 3
 
+Our zine resources should help students both understand what zines are and give a glimpse into how to go about making one of their own…
+Some key questions about zines that your resource should ultimately help students understand:
+•	What is a zine? Where do they come from? What’s their history as a genre of writing? 
+A Zine is a small circulation, self-published and photocopied booklet that was introduced in 1776 when Thomas Paine used it as an instrument in promoting ideas that contributed to the war. Its history as its own genre was used to use individual expressions, became popular when they were used to promote music or even promoting a movement. 
+•	Why do people compose/write zines? 
+People compose/ write zines to promote or teach while adding individuality. 
+•	Why might they be important or matter as genre of writing?
+Zines are important as a genre because it is raw without rules. It allows the individual or small group to express themselves and have a publication made with paper that holds more weight than a post on social media. Zines are more personal targeted to a smaller audience. 
+This is important because 
+•	What can zines teach us about key concepts in composition like purpose, writer, audience, context, and medium?
+Zines can teach us about a lot such as who the writer really is and how they feel. It’s shows individuality, the writer picks the word, pictures, and type of paper. Teaches you that they are passionate about what they made the zine about. Zines are usually audience specific such as band concerts, or movements such as Black Lives Matter, a way to share their passion who could relate to the context. 
+•	It is often said that zines have no rules, and this is true to a point. But zines do follow certain conventions (Links to an external site.) or norms in their style, content and design. In other words -- zines are recognizable as kind or genre of writing. What are these conventions? 
+Some conventions would be things such as having your zine photocopied, uniqueness because zines are different from magazines because they target smaller groups. 
+In making your own zine…
+•	What is its purpose? How did you decide this?
+ The purpose of my group’s zine is teaching students how to make a pumpkin keg. This was decided because Halloween is coming up and we wanted it to relate. 
+•	Who is the audience for your zine? How did this sense of audience inform the choices you made in terms of content and style?
+The audience for this zine would be college students, the sense of audience helped influence the content by adding in a recipe for the zine that involved alcohol. The content we used was basic and simple knowing that adults would (hopefully) understand basic instructions. 
+•	What conventions of zines did you adopt in your work? Which did you ignore or modify? Why?
+Some conventions that were adopted in our work was adding our uniqueness to this by adding in the content and photocopying. I would have to say that we also in a way ignored the uniqueness section being that we printed off recipes that were created by others. 
 
 
